@@ -10,13 +10,13 @@
 
 <br />
 
-📫 You can contact me at saraiovieira99@gmail.com and SaraV#7248 (Discord).
+📫 You can contact me at saraiovieira99@gmail.com or at SaraV#7248 (Discord).
 
 - 🎯 My goal is to become a Full-stack developer 
 - 📚 I'm currently learning JavaScript and finishing my freeCodeCamp projects 
-- 🥰 I love cats, books and travelling
+- ✈ I love travelling and learning new languages. Teach me anything in your language 😊
 
-### Languages and Tools 🛠
+#### Languages and Tools 🛠
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
