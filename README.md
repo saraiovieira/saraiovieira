@@ -1,15 +1,20 @@
-### Hi there, I'm Sara 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=saraiovieira.saraiovieira) [![Github](https://img.shields.io/github/followers/saraiovieira?label=Follow&style=social)](https://github.com/saraiovieira)
+<p align="center"> 
+  <h2 align="center">Hi there, I'm Sara 👋</h2>
+  <p align="center">I'm a Portuguese Front-end Developer! 💻</p>
+</p>
 
----
+<p align="center">
+  <a href="https://codepen.io/saraiovieira">CodePen</a> | 
+  <a href="https://www.linkedin.com/in/sara-io-vieira/">LinkedIn</a>
+</p>
 
-### I'm a Portuguese Front-end Developer! 💻
+<br />
+
+📫 You can contact me at saraiovieira99@gmail.com and SaraV#7248 (Discord).
 
 - 🎯 My goal is to become a Full-stack developer 
 - 📚 I'm currently learning JavaScript and finishing my freeCodeCamp projects 
 - 🥰 I love cats, books and travelling
-
----
 
 ### Languages and Tools 🛠
 
@@ -19,8 +24,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
----
 
-### Contact me 🗨
-- <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"> - saraiovieira99@gmail.com
-- <img align="center" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"> - (SaraV#7248)
