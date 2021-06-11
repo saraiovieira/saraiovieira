@@ -10,8 +10,6 @@
 
 <br />
 
-
-
 - 🎯 My goal is to become a Full-stack developer 
 - 📚 I'm currently learning JavaScript  
 - ✈ I love travelling and learning new languages. Teach me anything in your language 😊
