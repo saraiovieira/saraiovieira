@@ -10,11 +10,13 @@
 
 <br />
 
-📫 You can contact me at saraiovieira99@gmail.com or at SaraV#7248 (Discord).
+
 
 - 🎯 My goal is to become a Full-stack developer 
-- 📚 I'm currently learning JavaScript and finishing my freeCodeCamp projects 
+- 📚 I'm currently learning JavaScript  
 - ✈ I love travelling and learning new languages. Teach me anything in your language 😊
+
+📫 You can contact me at saraiovieira99@gmail.com or at SaraV#7248 (Discord).
 
 #### Languages and Tools 🛠
 
