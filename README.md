@@ -3,7 +3,7 @@
   <p>I'm a Portuguese Front-end Developer! 💻</p>
 </p>
 <p> My goal is to become a Full-stack developer and I'm currently learning JavaScript. </p>
-<p> I love travelling and learning new languages. I know Portuguese, English, French and I'm learning German. </p>
+<p> You can follow my progress in <a href="https://www.instagram.com/sarav.dev/">Instagram</a></p>
 
 📫 You can contact me at saraiovieira99@gmail.com or at SaraV#7248 (Discord).
 
