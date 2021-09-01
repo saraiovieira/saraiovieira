@@ -2,8 +2,8 @@
   <h2>Hi there, I'm Sara 👋</h2>
   <p>I'm a Portuguese Front-end Developer! 💻</p>
 </p>
-<p> My goal is to become a Full-stack developer and I'm currently learning JavaScript. </p>
-<p> Follow my progress in <a href="https://www.instagram.com/sarav.dev/">Instagram</a></p>
+<p> My goal is to become a Full-stack developer and I'm currently learning JavaScript. 📚</p>
+<p> Follow my progress in <a href="https://www.instagram.com/sarav.dev/">Instagram</a> 🎯</p>
 
 📫 You can contact me at saraiovieira99@gmail.com or at SaraV#7248 (Discord).
 
