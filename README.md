@@ -1,22 +1,29 @@
-<p> 
-  <h2>Hi there, I'm Sara 👋</h2>
-  <p>I'm a Portuguese Front-end Developer! 💻</p>
-</p>
-<p> My goal is to become a Full-stack developer and I'm currently learning JavaScript. 📚</p>
-<p> Follow my progress in <a href="https://www.instagram.com/sarav.dev/">Instagram</a> 🎯</p>
+ # Hi there, I'm Sara :wave:
 
-📫 You can contact me at saraiovieira99@gmail.com or at SaraV#7248 (Discord).
+- :computer: I'm a Portuguese Front-end Developer!
+- :dart: My goal is to become a Full-stack developer
+- :books: I'm currently learning Node.js.
 
-### Languages and Tools 🛠
+## My Skills 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<div>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> 
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+</div>
 
-### Social 💬
+## Connect with me
 
-<a href="https://codepen.io/saraiovieira">CodePen</a> | 
-<a href="https://www.linkedin.com/in/sara-io-vieira/">LinkedIn</a> |
-<a href="https://www.instagram.com/sarav.dev/">Instagram</a>
+<a href="https://codepen.io/saraiovieira">
+<img height="20" src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black">
+</a> 
+<a href="https://www.instagram.com/sarav.dev/">
+<img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a> 
+<a href="https://www.linkedin.com/in/sara-io-vieira/">
+<img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+
