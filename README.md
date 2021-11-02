@@ -1,6 +1,6 @@
  # Hi there, I'm Sara :wave:
 
-- :computer: I'm a Portuguese Front-end Developer!
+- :computer: I'm a Front-end Developer from Porto, Portugal!
 - :dart: My goal is to become a Full-stack developer
 - :books: I'm currently learning Node.js.
 
