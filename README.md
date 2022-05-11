@@ -2,8 +2,8 @@
 
 I'm a Full stack Developer with a background in Tourism.
 
-- 📍 I'm from Porto, Portugal and I've lived here all my life
-- 💻 Currently, I'm working on a project with React.js, Node.js and MongoDB
+- 📍 I'm from Porto, Portugal.
+- 💻 Currently, I'm working on a project with React.js, Node.js and MongoDB.
 - 📚 As a self-taught developer, I am a fast and very resourceful learner. 
 
 ## My Skills 
