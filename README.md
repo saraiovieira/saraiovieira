@@ -1,10 +1,10 @@
  # Hi there, my name is Sara :wave:
 
-I'm a Full stack Developer with a background in Tourism.
+I'm a Front-end Developer
 
 - 📍 I'm from Porto, Portugal.
-- 💻 Currently, I'm working on a project with React.js, Node.js and MongoDB.
-- 📚 As a self-taught developer, I am a fast and very resourceful learner. 
+- 💻 I'm working as a front-end developer at Hollow and in my free time I'm working on personal projects
+- 📚 I'm learning Next.js
 
 ## My Skills 
 
