@@ -27,7 +27,7 @@ I'm a Front-end Developer from Porto, Portugal.
 <a href="https://www.instagram.com/sarav.dev/">
 <img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a> 
-<a href="https://www.linkedin.com/in/sara-io-vieira/">
+<a href="https://www.linkedin.com/in/sara-vieira-frontend-developer/">
 <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 
