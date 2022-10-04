@@ -1,10 +1,8 @@
  # Hi there, my name is Sara :wave:
 
-I'm a Front-end Developer
+I'm a Front-end Developer from Porto, Portugal.
 
-- 📍 I'm from Porto, Portugal.
-- 💻 I'm working as a front-end developer at Hollow and in my free time I'm working on personal projects
-- 📚 I'm learning Next.js
+- 💻 In my free time I like to learn new things, read (my favorite genres are romance, crime and mystery), take walks in the nature and travel (my favorite trip was to Italy in September 2022).
 
 ## My Skills 
 
