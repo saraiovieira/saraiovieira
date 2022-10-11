@@ -1,4 +1,4 @@
- # Hi there, my name is Sara :wave:
+ # Hi, I'm Sara :wave:
 
 I'm a Front-end Developer from Porto, Portugal.
 
