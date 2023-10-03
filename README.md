@@ -2,8 +2,8 @@
 
 I'm a Front-end Developer from Porto, Portugal.
 
-- 🌻 I like to learn new things, read (romance, crime and mystery), take walks in the nature and travel (my favorite trip was to Italy)
-- 🐹 I adopted 3 guinea pigs
+- ✈️ When I'm not glued to my screen, you can find me jet-setting to new destinations, burying my nose in a good book or exploring hiking trails.
+- 🐈 You can also find me petting cats in the street
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/sara-vieira-frontend-developer/) and on [CodePen](https://codepen.io/saraiovieira)
 
 ## Skills 
