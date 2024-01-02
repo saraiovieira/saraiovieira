@@ -12,4 +12,8 @@ I'm a Front-end Developer from Porto, Portugal.
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
