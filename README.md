@@ -6,7 +6,6 @@
 👩‍💻 I'm a Frontend developer from Porto, Portugal
 🌱 I'm currently learning TypeScript
 🚩 I'm interested in contributing to open source
-🎯 One of my goals for 2024 is to become fluent in Spanish
 🛼 I love rollerblading, kickboxing, board games, reading and travelling
 🎵 I listen to rock, indie and pop
 ```
