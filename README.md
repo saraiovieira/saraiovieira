@@ -18,7 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript    25 mins         █████████████▓░░░░░░░░░░░   54.83 %
+CSS           12 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+Git Config    5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+JSON          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
