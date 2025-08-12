@@ -4,7 +4,7 @@
 
 ```
 👩‍💻 I'm a Frontend developer from Porto, Portugal
-🌱 I'm currently learning TypeScript
+🌱 I'm currently learning Vue.js
 🚩 I'm interested in contributing to open source
 🛼 I love rollerblading, kickboxing, board games, reading and travelling
 🎵 I listen to rock, indie and pop
